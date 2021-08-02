@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="plm1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../plm.jarfiles" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../plm.jarfiles" recursive="false" />
+  </library>
+</component>
